@@ -18,5 +18,6 @@ localization: Implements SUNTest's suspicious neuron localization algorithm.
 
 model_retraining: Contains code for retraining deep neural network (DNN) models.
 
-MOON: The repository of our previous work, namely MOON. It focuses on selecting a subset of test inputs from an unlabeled test set for model retraining. https://github.com/TestingAIGroup/MOON
+MOON: https://github.com/TestingAIGroup/MOON. The online repository of our previous work, namely MOON. It focuses on selecting a subset of test inputs from an unlabeled test set for model retraining. MOON transforms test input selection into a search problem, employing a multi-objective optimization algorithm to identify test inputs
+that maximize two objectives: suspicious neuron activation and input diversity.
 
