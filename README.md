@@ -8,9 +8,13 @@ This manuscript introduces SUNTest, a novel test input generation approach desig
 SUNTest is implemented on an Ubuntu 18.04 server, using Python (v3.8) as the programming language. The open-source Machine Learning frameworks employed in this study are Keras (v2.5.0rc0) and TensorFlow (v2.5.0). The geatpy library (v2.6.0) is utilized to implement the search-based test input selection algorithm.
 
 (1) RQ1: The effectivness of suspicious neuron localization.
+
 (2) RQ2: The effectivness of test input generators.
+
 (3) RQ3: The effectivness in model enhancement.
+
 (4) RQ4: Ablation Study.
+
 (5) RQ5: The efficiency analysis of SUNTest.
 
 ## Packages
